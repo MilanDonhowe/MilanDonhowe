@@ -1,6 +1,6 @@
 ### Milan Donhowe
 
-I'm a third-year Applied Computer Science student @ Oregon State who is currently working as a student Software Engineer at the [OSU Sustainability Office](https://github.com/OSU-Sustainability-Office) building and maintaining several single-page and serverless web applications.
+I'm a third-year Applied Computer Science student @ Oregon State who is currently working as a student Software Engineer at the [OSU Sustainability Office](https://github.com/OSU-Sustainability-Office).
 
 [![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanDonhowe&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
