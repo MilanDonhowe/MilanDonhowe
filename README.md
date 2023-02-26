@@ -1,8 +1,6 @@
 ### Milan Donhowe
 
-I'm a Senior Applied Computer Science student @ Oregon State.  Working part-time:
-- As a Student Software Engineer @ the [OSU Sustainability Office](https://github.com/OSU-Sustainability-Office).
-- As a Systems Engineering Intern @ [Niagara Bottling](https://www.niagarawater.com/).
+I'm a Senior Applied Computer Science student @ Oregon State.  Working part-time as a Systems Engineering Intern @ [Niagara Bottling](https://www.niagarawater.com/).
 
 
 
