@@ -1,8 +1,6 @@
 ### Milan Donhowe
 
-I'm a Senior Applied Computer Science student @ Oregon State.  Working part-time as a Systems Engineering Intern @ [Niagara Bottling](https://www.niagarawater.com/).
-
-
+I'm an automation engineer @ Niagara Bottling with a CompSci background that likes to hack stuff in their spare-time.
 
 [![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilanDonhowe&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
